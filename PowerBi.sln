@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBi", "PowerBi\PowerBi.csproj", "{9CF07824-740F-4807-AFB6-50085D40F8A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF07824-740F-4807-AFB6-50085D40F8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF07824-740F-4807-AFB6-50085D40F8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF07824-740F-4807-AFB6-50085D40F8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF07824-740F-4807-AFB6-50085D40F8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB9BD05-E8D8-4795-8EE3-67D51FFCBF01}
+	EndGlobalSection
+EndGlobal
